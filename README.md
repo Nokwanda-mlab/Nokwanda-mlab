@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nokwanda
-- 👀 I’m interested in code and coffe
+- 👀 I’m interested in code and coffee
 - 🌱 I’m currently learning Reactjs and React native
 
 <!---
